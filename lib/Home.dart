@@ -380,7 +380,6 @@ class _HomeState extends State<Home> {
             
           ),
           //end of first container
-
           //Second container start
 
           new Container(
