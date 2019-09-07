@@ -617,8 +617,6 @@ class _HomeState extends State<Home> {
                 ),
 
                 new SizedBox(height: 8.0,),
-
-
                 new Container(
                   child: new Row(
                     children: <Widget>[
