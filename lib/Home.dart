@@ -374,7 +374,7 @@ class _HomeState extends State<Home> {
                   ),
 
                 ),
-                
+
               ],
             ),
             
@@ -392,7 +392,6 @@ class _HomeState extends State<Home> {
                 new Container(
                   child: new Row(
                     children: <Widget>[
-                      
                       new Expanded(
                           flex: 2,
 
