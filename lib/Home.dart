@@ -362,9 +362,7 @@ class _HomeState extends State<Home> {
                             color: Colors.white
                         ),
                       ),
-
                       new SizedBox(height: 5.0,),
-
                       new Text("Details of First Item",
                         style: TextStyle(
                             fontSize: 14.0,
